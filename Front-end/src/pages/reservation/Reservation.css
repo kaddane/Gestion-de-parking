@@ -1,0 +1,109 @@
+
+
+
+.reservation{
+    position: relative;
+}
+
+.table-reservation{
+    width: 100%;
+}
+
+.margin-res{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-section{
+    width: 350px;
+    /* padding: 6px; */
+
+}
+
+.search{
+    width: 100%;
+    height: 100%;
+    outline: none;
+    box-shadow: 0 0 5px #514d4d;
+    border: none;
+    background-color: #f8f8f8;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.forms{
+    position: absolute;
+    top: 0%;
+    padding: 2%;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+}
+
+.form-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-pakege{
+    display: flex;
+    flex-direction: column;
+    width: 46%;
+}
+
+.flex-end-btn{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.submit-add-btn {
+    position: absolute;
+    bottom: 2px;
+    right: 30px;
+    width: 70px;
+    margin-top: 5px;
+    background-color: yellowgreen;
+    padding: 6px;
+    border: none;
+    color: #f8f8f8;
+}
+
+.addform{
+    display: none;
+}
+
+.date-end{
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

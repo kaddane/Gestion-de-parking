@@ -1,0 +1,120 @@
+/* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+
+/* .cader-reservation{
+    padding: 1.5%;
+} */
+
+.parking {
+    height: 100vh;
+    position: relative;
+}
+
+.parking .add-park {
+    width: 100px;
+    margin: 20px 0;
+}
+
+.add-park .btn-add {
+    background-color: yellowgreen;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    width: 150px;
+    padding: 6px;
+    border: none;
+    border-radius: 3px;
+}
+
+.cader {
+    padding: 1.5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.processes {
+    border: none;
+    padding: 6px;
+    margin: 0 2px;
+    border-radius: 4px;
+    font-size: 18px;
+    align-items: center;
+    text-align: center;
+}
+
+.processes-ubdate {
+    background-color: steelblue;
+    color: #fff;
+}
+
+.processes-delete {
+    background-color: rgb(195, 40, 40);
+    color: #fff;
+}
+
+.cader-form {
+    display: none;
+    position: absolute;
+    top: 35%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    height: 63vh;
+    background: #fff;
+    width: 700px;
+    box-shadow: 0 0 600px rgba(0, 0, 0, 0.3);
+    padding: 1%;
+}
+
+.title-form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cloes-icon {
+    font-size: 20px;
+    font-weight: 900;
+    border: none;
+    padding: 0;
+    background: #fff;
+}
+
+.form-controll {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 6px;
+    color: grey;
+}
+
+.add-form {
+    padding: 6px;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    background-color: #f8f8f8;
+    margin-bottom: 10px;
+    box-shadow: 0 0 3px #514d4d;
+}
+
+.flex-end {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.submit-add {
+    position: absolute;
+    right: 30px;
+    width: 70px;
+    margin-top: 5px;
+    background-color: yellowgreen;
+    padding: 6px;
+    border: none;
+    color: #f8f8f8;
+}
+
+.vuadd{
+    display: inline;
+}

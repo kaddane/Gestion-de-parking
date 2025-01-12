@@ -1,0 +1,105 @@
+
+.adminPage{
+    position: relative;
+}
+
+.felx-profile{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cader-profile{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 500px;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.img-profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.img-profile img{
+    width: 80%;
+    border-radius: 50%;
+}
+
+.cader-profile-form{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 500px;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.form-controll{
+    width: 100%;
+}
+
+
+.input{
+    padding: 6px;
+    background-color: #f9f9f9;
+    border: none;
+    outline: none;
+    margin-bottom: 10px;
+}
+
+
+.checkbox-input{
+    border: 1px solid #111;
+}
+
+.submit-change {
+    position: absolute;
+    right: 30px;
+    width: 160px;
+    margin-top: 5px;
+    background-color: yellowgreen;
+    padding: 6px;
+    border: none;
+    color: #f8f8f8;
+}
+
+.flex-change{
+    position: absolute;
+    right: 25%;
+    top: 15%;
+}
+
+.cader-change{
+    width: 500px;
+    height: 50vh;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 0 300px rgba(0, 0, 0, 0.3);
+}
+
+.d-none{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

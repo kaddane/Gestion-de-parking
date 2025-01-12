@@ -1,0 +1,64 @@
+
+
+
+.sidebar{
+    background: #312f2f;
+    width: 16%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    padding-left: 2%;
+    padding-top: 80px;
+    margin-top: 10px;
+    
+}
+
+.side-icon{
+    width: 24px;
+    height: 24px;
+    margin-right: 18px;
+    margin-bottom: 28px;
+
+}
+
+.side-link{
+    display: flex;
+    width: fit-content;
+    cursor: pointer;
+    /* border-bottom: 0.5px solid #111; */
+    margin-top: 5px;
+}
+
+.small-sidebar {
+    width: 5%;
+}
+
+.small-sidebar p{
+    display: none ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
